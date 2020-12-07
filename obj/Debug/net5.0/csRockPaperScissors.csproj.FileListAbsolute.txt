@@ -1,0 +1,15 @@
+/Users/mileswilson/source/codeworks/csRockPaperScissors/bin/Debug/net5.0/csRockPaperScissors.deps.json
+/Users/mileswilson/source/codeworks/csRockPaperScissors/bin/Debug/net5.0/csRockPaperScissors.runtimeconfig.json
+/Users/mileswilson/source/codeworks/csRockPaperScissors/bin/Debug/net5.0/csRockPaperScissors.runtimeconfig.dev.json
+/Users/mileswilson/source/codeworks/csRockPaperScissors/bin/Debug/net5.0/csRockPaperScissors.dll
+/Users/mileswilson/source/codeworks/csRockPaperScissors/bin/Debug/net5.0/ref/csRockPaperScissors.dll
+/Users/mileswilson/source/codeworks/csRockPaperScissors/bin/Debug/net5.0/csRockPaperScissors.pdb
+/Users/mileswilson/source/codeworks/csRockPaperScissors/obj/Debug/net5.0/csRockPaperScissors.csprojAssemblyReference.cache
+/Users/mileswilson/source/codeworks/csRockPaperScissors/obj/Debug/net5.0/csRockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mileswilson/source/codeworks/csRockPaperScissors/obj/Debug/net5.0/csRockPaperScissors.AssemblyInfoInputs.cache
+/Users/mileswilson/source/codeworks/csRockPaperScissors/obj/Debug/net5.0/csRockPaperScissors.AssemblyInfo.cs
+/Users/mileswilson/source/codeworks/csRockPaperScissors/obj/Debug/net5.0/csRockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/mileswilson/source/codeworks/csRockPaperScissors/obj/Debug/net5.0/csRockPaperScissors.dll
+/Users/mileswilson/source/codeworks/csRockPaperScissors/obj/Debug/net5.0/ref/csRockPaperScissors.dll
+/Users/mileswilson/source/codeworks/csRockPaperScissors/obj/Debug/net5.0/csRockPaperScissors.pdb
+/Users/mileswilson/source/codeworks/csRockPaperScissors/obj/Debug/net5.0/csRockPaperScissors.genruntimeconfig.cache
